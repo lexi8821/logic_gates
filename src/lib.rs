@@ -10,7 +10,7 @@ pub fn and(a: u8, b: u8) -> u8 {
         _ => 0
     }
 }
-
+/// Testing
 /** Implements a boolean `xor` gate taking as imput two bits and returning
 a bit as output */
 pub fn xor(a: u8, b: u8) -> u8 {
